@@ -1,6 +1,6 @@
-# Gerenciador de Restaurantes - Projeto de Restaurante com Opções Limitadas (C)
+# Sistema de Pedido de Refeições - Projeto de Restaurante com Opções Limitadas (C)
 
-Bem-vindo ao Gerenciador de Restaurantes em C, um projeto simples de Back-end que simula um sistema de pedidos de comida em um restaurante com opções limitadas. Este projeto foi desenvolvido para ser executado no terminal, proporcionando uma experiência de compra rápida e eficiente.
+Bem-vindo ao Sistema de Pedido de Refeições em C, um projeto simples de Back-end que simula um sistema de pedidos de comida em um restaurante com opções limitadas. Este projeto foi desenvolvido para ser executado no terminal, proporcionando uma experiência de compra rápida e eficiente.
 
 ## Funcionalidades
 
